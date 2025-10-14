@@ -1,7 +1,17 @@
 # odin-recipes
-
-What to include in this file: 
-Brief intro about the current project
-What skills I have demonstrated once I have completed the project
-
+Introduction
 This is a project that focuses on building websites using HTML only. It is an exercise to hone HTML that I learned as part of TOP's Foundations course.
+
+About the project
+This project is a Recipes website that provides the recipes to three different dishes.
+
+Skills I demonstrated during the course of the project
+Used HTML tags like:
+- Different Heading tags
+- Paragraph tag
+- Image tag
+- Anchor/Link tag
+- Ordered Lists
+- Unordered Lists
+- Strong and emphasis tags
+
