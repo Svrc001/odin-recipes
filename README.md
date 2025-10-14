@@ -1,12 +1,13 @@
 # odin-recipes
-Introduction
-This is a project that focuses on building websites using HTML only. It is an exercise to hone HTML that I learned as part of TOP's Foundations course.
 
-About the project
+## About the project
 This project is a Recipes website that provides the recipes to three different dishes.
 
-Skills I demonstrated during the course of the project
-Used HTML tags like:
+## Purpose of the project
+This is a project that focuses on building websites using HTML only. It is an exercise to hone HTML that I learned as part of TOP's Foundations course.
+
+## Skills I demonstrated during the course of the project
+__Used HTML tags like:__
 - Different Heading tags
 - Paragraph tag
 - Image tag
