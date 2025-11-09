@@ -1,0 +1,41 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;;
+    background-color: #D9A299;
+}
+
+
+.heading {
+    background-color: #FAF7F3;
+    color: #f54324;
+    margin: 0;
+    padding: 16px;
+    border: 2px solid #a53128;
+}
+
+.recipe-info {
+    background-color: #F0E4D3;
+    color: #5a0a20;
+    margin: 0;
+    border: 2px solid #cab598;
+    padding: 16px;
+}
+
+li {
+    display: inline-block;
+    border: 2px solid #D9A299;
+    border-radius: 8px;
+    padding: 12px;
+    margin: 0 8px;
+    background-color: #f7f0e6;
+}
+
+.lasagna {
+    margin-left: 0;
+}
+
+a {
+    color: #530f22;
+}
